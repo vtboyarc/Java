@@ -1,9 +1,7 @@
 import java.util.Scanner;
  
-class Input
-{
-   public static void main(String args[])
-   {
+class Input {
+   public static void main(String args[]) {
       int a;
       float b;
       String s;
