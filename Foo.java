@@ -1,7 +1,7 @@
 class Foo {
   public static void main(String [] args) {
     
-    int x = 5;
+    int x = 2;
     
     while (x > 1) {
       x = x - 1;
